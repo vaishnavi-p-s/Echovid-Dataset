@@ -41,8 +41,7 @@ Here are some prompts included in the dataset:
 
 ## Usage
 
-1. Clone this repository:
+1. **Clone this repository:**
 ```bash
 git clone https://github.com/vaishnavi-ps/EchoVid-dataset.git
-
-
+cd EchoVid-dataset
