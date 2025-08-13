@@ -38,6 +38,17 @@ Here are some prompts included in the dataset:
 > Note: The order of prompts does not correspond to the order of videos or images.
 
 ---
+## 📸 Preview
+Below are 5 sample outputs from the EchoVid dataset:
+
+<p float="left">
+  <img src="beauty%20and%20the%20besat.png" width="200" />
+  <img src="birds%20flying%20(2).png" width="200" />
+  <img src="dragon%20img.png" width="200" />
+  <img src="img.png" width="200" />
+  <img src="img1.png" width="200" />
+</p>
+---
 
 ## Usage
 
