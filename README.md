@@ -39,7 +39,7 @@ Here are some prompts included in the dataset:
 
 ---
 
-  ## 📸 Preview
+## 📸 Preview
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -71,7 +71,6 @@ Here are some prompts included in the dataset:
 </div>
 
 > **Note:** Video previews will be added in future updates.
-
 
 ---
 
