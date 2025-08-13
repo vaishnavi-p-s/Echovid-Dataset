@@ -39,40 +39,27 @@ Here are some prompts included in the dataset:
 
 ---
 
-## 📸 Preview
+## 📸 Sample Dataset Preview
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
-    <figcaption>Beauty and the Beast</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="Preview/birds%20flying%20(2).png" width="200" />
-    <figcaption>Birds Flying</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="Preview/dragon%20img.png" width="200" />
-    <figcaption>Dragon</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="Preview/rapunzel.png" width="200" />
-    <figcaption>Rapunzel</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="Preview/thirsty%20crow.png" width="200" />
-    <figcaption>Thirsty Crow</figcaption>
-  </figure>
-
-  <!-- Add more images in the same format -->
-
-</div>
+<table>
+  <tr>
+    <td><img src="Preview/beauty%20and%20the%20besat.png" width="200" /></td>
+    <td><img src="Preview/birds%20flying%20(2).png" width="200" /></td>
+    <td><img src="Preview/dragon%20img.png" width="200" /></td>
+    <td><img src="Preview/rapunzel.png" width="200" /></td>
+    <td><img src="Preview/thirsty%20crow.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td>Beauty and the Beast</td>
+    <td>Birds Flying</td>
+    <td>Dragon</td>
+    <td>Rapunzel</td>
+    <td>Thirsty Crow</td>
+  </tr>
+</table>
 
 > **Note:** Video previews will be added in future updates.
+
 
 ---
 
