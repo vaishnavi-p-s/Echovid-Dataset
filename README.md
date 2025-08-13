@@ -41,7 +41,7 @@ Here are some prompts included in the dataset:
 
 ## 📸 Preview
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <figure style="margin: 0; text-align: center;">
     <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
@@ -67,6 +67,8 @@ Here are some prompts included in the dataset:
     <img src="Preview/thirsty%20crow.png" width="200" />
     <figcaption>Thirsty Crow</figcaption>
   </figure>
+
+  <!-- Add more images in the same format -->
 
 </div>
 
