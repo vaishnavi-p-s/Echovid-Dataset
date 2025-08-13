@@ -42,11 +42,11 @@ Here are some prompts included in the dataset:
 Below are 5 sample outputs from the EchoVid dataset:
 
 <p float="left">
-  <img src="beauty%20and%20the%20besat.png" width="200" />
-  <img src="birds%20flying%20(2).png" width="200" />
-  <img src="dragon%20img.png" width="200" />
-  <img src="img.png" width="200" />
-  <img src="img1.png" width="200" />
+  <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
+  <img src="Preview/birds%20flying%20(2).png" width="200" />
+  <img src="Preview/dragon%20img.png" width="200" />
+  <img src="Preview/rapunzel.png" width="200" />
+  <img src="Preview/thirsty%20crow.png" width="200" />
 </p>
 ---
 
