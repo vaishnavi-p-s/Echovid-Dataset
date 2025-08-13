@@ -38,33 +38,40 @@ Here are some prompts included in the dataset:
 > Note: The order of prompts does not correspond to the order of videos or images.
 
 ---
-## 📸 Preview
-Be## 📸 Preview
 
-<p float="left">
-  <figure>
+  ## 📸 Preview
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <figure style="margin: 0; text-align: center;">
     <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
     <figcaption>Beauty and the Beast</figcaption>
   </figure>
-  <figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="Preview/birds%20flying%20(2).png" width="200" />
     <figcaption>Birds Flying</figcaption>
   </figure>
-  <figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="Preview/dragon%20img.png" width="200" />
     <figcaption>Dragon</figcaption>
   </figure>
-  <figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="Preview/rapunzel.png" width="200" />
     <figcaption>Rapunzel</figcaption>
   </figure>
-  <figure>
+
+  <figure style="margin: 0; text-align: center;">
     <img src="Preview/thirsty%20crow.png" width="200" />
     <figcaption>Thirsty Crow</figcaption>
   </figure>
-</p>
+
+</div>
 
 > **Note:** Video previews will be added in future updates.
+
 
 ---
 
