@@ -39,15 +39,33 @@ Here are some prompts included in the dataset:
 
 ---
 ## 📸 Preview
-Below are 5 sample outputs from the EchoVid dataset:
+Be## 📸 Preview
 
 <p float="left">
-  <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
-  <img src="Preview/birds%20flying%20(2).png" width="200" />
-  <img src="Preview/dragon%20img.png" width="200" />
-  <img src="Preview/rapunzel.png" width="200" />
-  <img src="Preview/thirsty%20crow.png" width="200" />
+  <figure>
+    <img src="Preview/beauty%20and%20the%20besat.png" width="200" />
+    <figcaption>Beauty and the Beast</figcaption>
+  </figure>
+  <figure>
+    <img src="Preview/birds%20flying%20(2).png" width="200" />
+    <figcaption>Birds Flying</figcaption>
+  </figure>
+  <figure>
+    <img src="Preview/dragon%20img.png" width="200" />
+    <figcaption>Dragon</figcaption>
+  </figure>
+  <figure>
+    <img src="Preview/rapunzel.png" width="200" />
+    <figcaption>Rapunzel</figcaption>
+  </figure>
+  <figure>
+    <img src="Preview/thirsty%20crow.png" width="200" />
+    <figcaption>Thirsty Crow</figcaption>
+  </figure>
 </p>
+
+> **Note:** Video previews will be added in future updates.
+
 ---
 
 ## Usage
