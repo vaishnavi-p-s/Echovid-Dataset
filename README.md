@@ -30,7 +30,8 @@ This repository contains a **sample dataset** demonstrating the outputs generate
 - `text_prompts.txt` → Example text prompts used for generation  
 - `audio_prompts/` → Example audio prompts used for generation  
 - `Generated images/` → Sample frames extracted from videos (17 images)  
-- `Generated videos/` → Short demo videos (12 videos)  
+- `Generated videos/` → Short demo videos (12 videos)
+- `Echovid_Contributions.md` → Describes our contributions and enhancements to the pipeline  
 
 ---
 
