@@ -30,8 +30,21 @@ This repository contains a **sample dataset** demonstrating the outputs generate
 - `text_prompts.txt` → Example text prompts used for generation  
 - `audio_prompts/` → Example audio prompts used for generation  
 - `Generated images/` → Sample frames extracted from videos (17 images)  
-- `Generated videos/` → Short demo videos (12 videos)
+- `Generated videos/` → Short demo videos (12 videos)  
 - `Echovid_Contributions.md` → Describes our contributions and enhancements to the pipeline  
+
+---
+
+## 🗂️ Internal Dataset for Video Generation
+
+`EchoVid-InternalData/` folder includes **data structures used internally** by the EchoVid pipeline:
+
+- `human_words.json` → List of human/character-related keywords  
+- `motion_words.json` → List of motion/action-related keywords  
+- `scene_descriptions.json` → Mapping of scene types to scene descriptions  
+- `prompt_rules.json` → Rules applied to refine and enhance prompts before generation  
+
+> **Purpose:** These JSON files represent the “internal dataset” that guides how EchoVid interprets text/audio prompts, decides motion, adds characters, and refines scenes for smooth, consistent, and realistic videos.  
 
 ---
 
