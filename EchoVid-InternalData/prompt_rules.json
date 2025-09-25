@@ -1,0 +1,7 @@
+{
+    "no_human": "Add 'including a character' to prompt if no human keyword detected",
+    "motion_present": "Add 'dynamic poses, natural movement' to prompt if motion keyword detected",
+    "motion_absent": "Add 'still background, no movement' to prompt if no motion keyword detected",
+    "short_prompt": "If prompt has less than 3 words, append 'in high resolution'",
+    "style_addition": "If style is provided, append it to prompt"
+}
