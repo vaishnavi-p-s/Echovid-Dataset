@@ -1,6 +1,6 @@
 # 🎬 EchoVid Sample Dataset
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-v2.1-orange) ![Gradio](https://img.shields.io/badge/Gradio-UI-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-v2.1-orange) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)
 
 **AI-driven text/audio to video generation pipeline using Stable Diffusion.**
 
@@ -10,7 +10,7 @@
 - ✅ Supports **text & audio prompts** for video generation  
 - ✅ Ensures **smooth motion, consistent characters, and backgrounds**  
 - ✅ Scene-specific enhancements for **realistic storytelling**  
-- ✅ **Gradio interface** for easy interaction
+- ✅ **Vercel deployed interface** for easy interaction
 
 > Quick overview for visitors: Explore the sample dataset and see the enhancements implemented.
 
